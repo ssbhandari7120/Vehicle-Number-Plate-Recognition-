@@ -11,5 +11,5 @@ steps to run :
 5. Run the img_processing.py file for the happy results.
 
 
-If any changes required please mail me with the subject line of GITHUB: PROJECT CORRECTION at no25mana@gmail.com
+If any changes required please mail me with the subject line of GITHUB: PROJECT CORRECTION at ssbhandari7120@gmail.com
 Thanks 
